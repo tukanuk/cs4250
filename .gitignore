@@ -1,3 +1,5 @@
+weka-3-8-3/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +104,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
